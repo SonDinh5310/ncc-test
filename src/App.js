@@ -126,7 +126,7 @@ function App() {
                                 </p>
                             </div>
                         </div>
-                        <div style={{ paddingRight: '10px' }}>
+                        <div>
                             <p className="title">Lorem ipsum dolor sit amet</p>
                             <div>
                                 <img
